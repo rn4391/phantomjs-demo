@@ -1,0 +1,10 @@
+{
+  "name": "PhantomJSDemo",
+  "version": "1.0.0",
+  "author": "Rahul Nanwani",
+  "description": "Serve HTML Snapshots for JS Applications",
+  "dependencies": {
+    "express": "^4.5.0"
+  },
+  "devDependencies": {}
+}
